@@ -36,6 +36,11 @@ Homepage Logged-In
 Saved Books
 ![Screenshot](assets/img/screenshot_4.png)
 
+Back-end Installation: 
+- Download it through Github
+- Run npm i in terminal to install packages
+- Running npm run develop will give you access to the Apollo Server (Graph QL) and the localhost webpage
+
 ## License:
 MIT
 
